@@ -159,5 +159,3 @@ Amazon-Store-Sales-Analytics/
 ## Author
 **Harsh Choudhary**  
 GitHub: [https://github.com/HarshChoudhary2003](https://github.com/HarshChoudhary2003)
-#   A m a z o n - S t o r e - S a l e s - A n a l y t i c s  
- 
