@@ -1,5 +1,11 @@
 # Amazon Store Sales, Profitability & Returns Analytics
 
+<p align="center">
+  <a href="https://github.com/HarshChoudhary2003/Amazon-Store-Sales-Analytics">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=End-to-End+Retail+Analytics;Sales+%26+Profitability+Dashboard;Customer+Behavior+%26+Returns+Insights;Data-Driven+Decision+Making" alt="Typing SVG" />
+  </a>
+</p>
+
 An end-to-end retail analytics project analyzing sales performance, profitability, customer behavior, product performance, shipping efficiency, payment modes, and return patterns.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
