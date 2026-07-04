@@ -110,15 +110,15 @@ Amazon-Store-Sales-Analytics/
 │   ├── intermediate_analysis.sql
 │   └── advanced_analysis.sql
 ├── Python/
-│   ├── Data_Cleaning.ipynb
-│   ├── Exploratory_Data_Analysis.ipynb
+│   ├── 01_Data_Cleaning.ipynb
+│   ├── 02_Exploratory_Data_Analysis.ipynb
 │   └── 03_Business_Insights_and_Recommendations.ipynb
 ├── PowerBI/
 │   └── amazon_store_analytics.pbix
 ├── Documentation/
 │   ├── Business_Insights_and_Recommendations.md
 │   ├── Final Project Documentation.docx
-│   └── usiness_Requirement_Document.md
+│   └── Business_Requirement_Document.md
 ├── Reports/
 │   ├── bottom_10_products.csv
 │   ├── category_summary.csv
