@@ -88,16 +88,16 @@ Focuses on operational efficiency, product viability, and return patterns:
 ![Returns and Product Performance](Screenshots/Returns%20&%20Product%20Performance.png)
 
 ## Key Business Insights
-- **Sales & Profitability:** Certain sub-categories generate high sales volume but yield negative profit margins, heavily impacting overall profitability.
-- **Customer Segmentation:** The 'Consumer' segment consistently contributes the highest proportion of total sales, whereas the 'Home Office' segment generates higher average order values.
-- **Returns & Operations:** Specific shipping modes, such as 'Same Day', exhibit disproportionately higher return rates.
-- **Geographical Performance:** Profitability varies significantly across regions, with a few key states driving the majority of profits while others operate at a loss.
+- **Sales & Profitability:** Technology is the most profitable category, whereas Furniture generates strong revenue but operates at a very low profit margin.
+- **Customer Segmentation:** The 'Consumer' segment consistently contributes the highest proportion of total sales (~$753K), whereas the 'Home Office' segment generates higher average order values.
+- **Returns & Operations:** 'First Class' shipping exhibits the highest return rate at 13.23%, whereas 'Same Day' shipping actually has the lowest return rate at 6.13%.
+- **Geographical Performance:** The West region is the strongest performer contributing the most to both total sales and profit, while the South region underperforms.
 
 ## Business Recommendations
-- **Product Strategy:** Review the pricing and operational costs of loss-making sub-categories. Consider discontinuing consistently unprofitable products or bundling them with high-margin items.
-- **Shipping Optimization:** Investigate the underlying causes of high return rates associated with specific shipping modes to improve logistics and customer satisfaction.
+- **Product Strategy:** Review the pricing and operational costs of loss-making sub-categories (like Furniture). Consider discontinuing consistently unprofitable products or bundling them with high-margin items.
+- **Shipping Optimization:** Investigate the underlying causes of the high return rate (13.23%) associated with First Class shipping to improve logistics and customer satisfaction.
 - **Targeted Marketing:** Design targeted promotional campaigns for the highest-value customer segments to boost retention and lifetime value.
-- **Regional Focus:** Conduct a root-cause analysis in underperforming states to determine if local pricing strategies or supply chain inefficiencies are negatively impacting profit margins.
+- **Regional Focus:** Conduct a root-cause analysis in underperforming states (and the South region) to determine if local pricing strategies or supply chain inefficiencies are negatively impacting profit margins.
 
 ## Folder Structure
 ```text

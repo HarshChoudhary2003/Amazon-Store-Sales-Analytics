@@ -8,36 +8,17 @@ The goal is to help management identify revenue drivers, profit risks, return pa
 
 ## Key Business Insights
 
-1. Sales performance should be evaluated together with profit because high revenue does not always mean high profitability.
-
-2. Category and sub-category analysis helps identify products that generate strong profit and products that create losses.
-
-3. Regional analysis highlights locations that contribute the most to sales and profit, helping management plan inventory and marketing efforts.
-
-4. Customer segment analysis identifies high-value groups that can be targeted with retention campaigns and personalized offers.
-
-5. Return rate analysis helps identify categories and shipping modes that may have product quality, delivery, packaging, or customer expectation issues.
-
-6. Loss-making products should be reviewed before applying additional discounts or promotions.
-
-7. Monthly sales and profit trends help management plan inventory, staffing, promotions, and sales targets.
-
-8. Payment mode analysis supports better checkout experience and payment-based promotional strategies.
+1. **Category Performance:** Technology is the most profitable category generating ~$90.4K in profit on ~$470K sales. Conversely, Furniture generates strong revenue (~$451K) but operates at a very low profit margin (only ~$10K profit).
+2. **Regional Performance:** The West region is the strongest performer, contributing the most to both total sales (~$522K) and profit (~$67.8K), followed by the East region. The South region underperforms compared to the rest.
+3. **Customer Segments:** The 'Consumer' segment is the primary driver of the business, accounting for 1,528 orders, ~$753K in sales, and ~$81.3K in profit. 
+4. **Return Patterns by Shipping:** 'First Class' shipping exhibits the highest return rate at 13.23%, whereas 'Same Day' shipping has the lowest return rate at 6.13%. 
+5. **Loss-Making Products:** Certain sub-categories and products are generating high sales volume but yield negative profit margins, heavily impacting overall profitability.
 
 ## Recommendations
 
-1. Review loss-making products and sub-categories to identify pricing, discount, supplier cost, or shipping cost issues.
-
-2. Prioritize high-profit categories, products, and regions in inventory planning and marketing campaigns.
-
-3. Investigate categories with high return rates and improve product descriptions, packaging, quality checks, and customer communication.
-
-4. Compare shipping modes with return rates and delivery duration to improve fulfillment performance.
-
-5. Focus retention campaigns on customer segments that generate the highest sales and profit.
-
-6. Use monthly sales trends to forecast demand and prepare inventory before peak periods.
-
-7. Monitor profit margin along with sales in executive reviews to avoid revenue growth with declining profitability.
-
-8. Use the Power BI dashboard as a centralized reporting tool for ongoing sales, profit, and returns monitoring.
+1. **Investigate Furniture Margin:** Review the pricing, discount strategies, and shipping costs associated with the Furniture category. Consider discontinuing consistently unprofitable products or bundling them with high-margin Technology items.
+2. **First-Class Shipping Review:** Investigate the underlying causes of the high return rate (13.23%) associated with First Class shipping. The delivery experience or expectations might be misaligned.
+3. **Targeted Regional Marketing:** Continue to invest in the West and East regions while conducting a root-cause analysis in the South region to determine if local pricing strategies or supply chain inefficiencies are holding back profit.
+4. **Consumer Retention:** Design targeted promotional campaigns and loyalty programs for the 'Consumer' segment to boost retention and maximize their already high lifetime value.
+5. **Monitor Profit alongside Revenue:** Always evaluate sales performance together with profit margins in executive reviews to avoid the trap of pursuing revenue growth with declining profitability.
+6. **Use the Power BI dashboard** as a centralized reporting tool for ongoing sales, profit, and returns monitoring.
